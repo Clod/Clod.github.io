@@ -27563,20 +27563,20 @@ l.as=B.up}else if(m>1&&m<1.5){l.Q="Leve"
 l.as=B.jm}else if(m>=1.5&&m<=2){l.Q="Intermedia"
 l.as=B.jl}else{l.Q="Pobre"
 l.as=B.jk}l.at=!0}A.D4().$1("Puntaje: "+A.h(l.z))},
-S(a,b){var s,r,q,p,o,n,m=this,l=null,k=t.N,j=t.co,i=A.Wz(!0,A.iD(A.am(["0",A.aT(B.Bj,130),"3",A.aT(B.Bg,130),"2",A.aT(B.Bl,130),"1",A.aT(B.B5,130)],k,j),l,new A.J3(m),l,B.c_,k)),h=m.d
-h=A.iD(A.am(["0",A.aT(B.Bi,130),"3",A.aT(B.Bo,130),"2",A.aT(B.B2,130),"1",A.aT(B.Bq,130)],k,j),h,new A.J4(m),B.aq,l,k)
+S(a,b){var s,r,q,p,o,n,m=this,l=null,k=t.N,j=t.co,i=A.Wz(!0,A.iD(A.am(["0",A.aT(B.Bj,130),"3",A.aT(B.Bg,130),"2",A.aT(B.Bl,130),"1",A.aT(B.B4,130)],k,j),l,new A.J3(m),l,B.c_,k)),h=m.d
+h=A.iD(A.am(["0",A.aT(B.Bi,130),"3",A.aT(B.Bo,130),"2",A.aT(B.B1,130),"1",A.aT(B.Bq,130)],k,j),h,new A.J4(m),B.aq,l,k)
 s=m.e
-s=A.iD(A.am(["0",A.aT(B.AZ,130),"3",A.aT(B.qp,130),"2",A.aT(B.Bk,130),"1",A.aT(B.B4,130)],k,j),s,new A.J5(m),B.aq,l,k)
+s=A.iD(A.am(["0",A.aT(B.AY,130),"3",A.aT(B.qp,130),"2",A.aT(B.Bk,130),"1",A.aT(B.B3,130)],k,j),s,new A.J5(m),B.aq,l,k)
 r=m.f
 r=A.iD(A.am(["0",A.aT(B.B9,130),"3",A.aT(B.Bm,130),"2",A.aT(B.Be,130),"1",A.aT(B.zf,130)],k,j),r,new A.J6(m),B.aq,l,k)
 q=m.r
-q=A.iD(A.am(["0",A.aT(B.B6,130),"3",A.aT(B.Bn,130),"2",A.aT(B.B1,130),"1",A.aT(B.zi,130)],k,j),q,new A.J7(m),B.aq,l,k)
+q=A.iD(A.am(["0",A.aT(B.B5,130),"3",A.aT(B.Bn,130),"2",A.aT(B.B0,130),"1",A.aT(B.zi,130)],k,j),q,new A.J7(m),B.aq,l,k)
 p=m.w
-p=A.iD(A.am(["0",A.aT(B.Bb,130),"3",A.aT(B.Ba,130),"2",A.aT(B.B0,130),"1",A.aT(B.ze,130)],k,j),p,new A.J8(m),B.aq,l,k)
+p=A.iD(A.am(["0",A.aT(B.Bb,130),"3",A.aT(B.Ba,130),"2",A.aT(B.B_,130),"1",A.aT(B.ze,130)],k,j),p,new A.J8(m),B.aq,l,k)
 o=m.x
 o=A.iD(A.am(["0",A.aT(B.Bc,130),"3",A.aT(B.qp,130),"2",A.aT(B.Bh,130),"1",A.aT(B.zh,130)],k,j),o,new A.J9(m),B.aq,l,k)
 n=m.y
-k=A.iD(A.am(["0",A.aT(B.B8,130),"3",A.aT(B.AX,130),"2",A.aT(B.Bd,130),"1",A.aT(B.zg,130)],k,j),n,new A.Ja(m),B.aq,l,k)
+k=A.iD(A.am(["0",A.aT(B.B7,130),"3",A.aT(B.AW,130),"2",A.aT(B.Bd,130),"1",A.aT(B.zg,130)],k,j),n,new A.Ja(m),B.aq,l,k)
 n=A.NQ("Puntaje: "+B.e.L(m.z,1),l,l,B.AQ)
 j=t.p
 return new A.np(B.ur,A.WT(new A.bR(B.uW,new A.u1(B.cX,B.oG,B.dU,B.d9,l,B.iv,l,A.a([B.AC,i,h,s,r,q,p,o,k,A.Yf(A.a([new A.bR(B.uY,n,l),new A.bR(B.uX,A.NQ("Score: ",l,l,A.jH(l,l,m.at?B.t:B.dd,l,l,l,l,l,l,l,l,15,l,B.a3,l,l,!0,l,l,l,l,l,l,l,l)),l),new A.bR(B.uV,A.NQ(m.Q,l,l,A.jH(l,l,m.as,l,l,l,l,l,l,l,l,15,l,B.a3,l,l,!0,l,l,l,l,l,l,l,l)),l)],j),B.oG,B.dU)],j),l),l)),l)}}
@@ -28268,7 +28268,7 @@ A.qc.prototype={
 Fm(a,b,c){var s
 if(b==null)return B.im
 s=A.NQ(b,1,B.is,null)
-return new A.it(B.iB,1,null,b.length>12?B.B_:s,null)},
+return new A.it(B.iB,1,null,b.length>12?B.AZ:s,null)},
 S(a,b){var s,r=this.d
 if(t.wy.b(r)&&!r.gpG()){s=r.aG$
 s.toString
@@ -42929,14 +42929,14 @@ B.dX=new A.jd("flutter/navigation",B.iJ)
 B.zd=new A.w8(0,null)
 B.bj=new A.ci(4,4,4,4)
 B.aB=new A.c0(!0,B.jm,null,null,null,null,null,B.a3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.AW=new A.aC(">200mg/dl",null,B.aB,B.q,null,null,null)
-B.ze=new A.bR(B.bj,B.AW,null)
-B.B3=new A.aC(">60min",null,B.aB,B.q,null,null,null)
-B.zf=new A.bR(B.bj,B.B3,null)
-B.B7=new A.aC("<100 mg/dl",null,B.aB,B.q,null,null,null)
-B.zg=new A.bR(B.bj,B.B7,null)
-B.AY=new A.aC("<90pc",null,B.aB,B.q,null,null,null)
-B.zh=new A.bR(B.bj,B.AY,null)
+B.B8=new A.aC("<200mg/dl",null,B.aB,B.q,null,null,null)
+B.ze=new A.bR(B.bj,B.B8,null)
+B.B2=new A.aC(">60min",null,B.aB,B.q,null,null,null)
+B.zf=new A.bR(B.bj,B.B2,null)
+B.B6=new A.aC("<100 mg/dl",null,B.aB,B.q,null,null,null)
+B.zg=new A.bR(B.bj,B.B6,null)
+B.AX=new A.aC("<90pc",null,B.aB,B.q,null,null,null)
+B.zh=new A.bR(B.bj,B.AX,null)
 B.Bf=new A.aC("4-5 componentes",null,B.aB,B.q,null,null,null)
 B.zi=new A.bR(B.bj,B.Bf,null)
 B.uS=new A.fs(6,0,0,0)
@@ -43104,19 +43104,19 @@ B.AR=new A.c0(!0,null,null,null,null,null,null,B.a3,null,null,null,null,null,nul
 B.AS=new A.c0(!1,B.dc,null,".SF Pro Text",null,null,17,null,null,-0.41,null,null,null,null,null,null,null,B.ir,null,null,null,null,null,null,null)
 B.AV=new A.y1(1,"longestLine")
 B.b5=new A.c0(!0,B.jk,null,null,null,null,null,B.a3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.AX=new A.aC(">126 mg/dl",null,B.b5,B.q,null,null,null)
+B.AW=new A.aC(">126 mg/dl",null,B.b5,B.q,null,null,null)
 B.V=new A.c0(!0,B.t,null,null,null,null,null,B.a3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.AZ=new A.aC("BMI",null,B.V,null,null,null,null)
-B.B_=new A.aC("Back",null,null,null,null,null,null)
+B.AY=new A.aC("BMI",null,B.V,null,null,null,null)
+B.AZ=new A.aC("Back",null,null,null,null,null,null)
 B.aC=new A.c0(!0,B.jl,null,null,null,null,null,B.a3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.B0=new A.aC("170-190 mg/dl",null,B.aC,B.q,null,null,null)
-B.B1=new A.aC("2-3 componentes",null,B.aC,B.q,null,null,null)
-B.B2=new A.aC("Interm.",null,B.aC,B.q,null,null,null)
+B.B_=new A.aC("170-190 mg/dl",null,B.aC,B.q,null,null,null)
+B.B0=new A.aC("2-3 componentes",null,B.aC,B.q,null,null,null)
+B.B1=new A.aC("Interm.",null,B.aC,B.q,null,null,null)
 B.qp=new A.aC(">percentilo95",null,B.b5,B.q,null,null,null)
-B.B4=new A.aC("<85",null,B.aB,B.q,null,null,null)
-B.B5=new A.aC("Ideal",null,B.V,B.q,null,null,null)
-B.B6=new A.aC("Score dieta sana",null,B.V,null,null,null,null)
-B.B8=new A.aC("Glucemia",null,B.V,null,null,null,null)
+B.B3=new A.aC("<85",null,B.aB,B.q,null,null,null)
+B.B4=new A.aC("Ideal",null,B.V,B.q,null,null,null)
+B.B5=new A.aC("Score dieta sana",null,B.V,null,null,null,null)
+B.B7=new A.aC("Glucemia",null,B.V,null,null,null,null)
 B.B9=new A.aC("Actividad f\xedsica",null,B.V,null,null,null,null)
 B.Ba=new A.aC(">200mg/dl",null,B.b5,B.q,null,null,null)
 B.Bb=new A.aC("Colesterol total",null,B.V,null,null,null,null)
